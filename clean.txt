@@ -1,0 +1,3 @@
+    This is a simple test file with safe content.
+It contains nothing suspicious or harmful.
+Just a normal file with plain text.
